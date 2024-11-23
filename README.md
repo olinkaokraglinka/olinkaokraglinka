@@ -1,9 +1,9 @@
 .+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.
 - 👋 Hi, I’m @olinkaokraglinka
-- 👀 I’m interested in data analytics 
+- 👀 I’m interested in data analytics, production processes and sustainability 
 - 🌱 I’m currently learning SQL, R, Tableu and Phyton
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: teamedward
+- ⚡ Fun fact: I'm team Edward Cullen
   
 .+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.
 

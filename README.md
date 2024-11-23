@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning SQL, R, Tableu and Phyton
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: teamedward
+  
 .+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.
 
 <!--
